@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: /about
+title: "PAGE - 2"
+permalink: /URL-PATH
 
-PAGE 2 CONTENTS ARE HERE
+ANSH BHIMANI IS GREAT
